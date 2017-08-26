@@ -1,0 +1,8 @@
+/home/dev/Centrale/LDAPAPI/src/main/java/com/ecnantes/ldap/utils/MySSLSocketFactory.java
+/home/dev/Centrale/LDAPAPI/src/main/java/com/ecnantes/ldap/utils/DummyTrustManager.java
+/home/dev/Centrale/LDAPAPI/src/main/java/com/ecnantes/ldap/utils/PropertiesManager.java
+/home/dev/Centrale/LDAPAPI/src/main/java/com/ecnantes/ldap/api/LdapApi.java
+/home/dev/Centrale/LDAPAPI/src/main/java/com/ecnantes/ldap/utils/LDAPConnection.java
+/home/dev/Centrale/LDAPAPI/src/main/java/com/ecnantes/ldap/beans/Credential.java
+/home/dev/Centrale/LDAPAPI/src/main/java/com/ecnantes/ldap/mapper/UserMapper.java
+/home/dev/Centrale/LDAPAPI/src/main/java/com/ecnantes/ldap/beans/LDAPUser.java

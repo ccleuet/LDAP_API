@@ -1,0 +1,8 @@
+com/ecnantes/ldap/mapper/UserMapper.class
+com/ecnantes/ldap/api/LdapApi.class
+com/ecnantes/ldap/utils/PropertiesManager.class
+com/ecnantes/ldap/utils/LDAPConnection.class
+com/ecnantes/ldap/utils/MySSLSocketFactory.class
+com/ecnantes/ldap/utils/DummyTrustManager.class
+com/ecnantes/ldap/beans/Credential.class
+com/ecnantes/ldap/beans/LDAPUser.class
